@@ -1,4 +1,5 @@
-FButton [![Maven Central](https://maven-badges.herokuapp.com/maven-central/info.hoang8f/fbutton/badge.svg)](https://maven-badges.herokuapp.com/maven-central/info.hoang8f/fbutton)
+FButton [![](https://jitpack.io/v/jd-alexander/android-flat-button.svg)](https://jitpack.io/#jd-alexander/android-flat-button)
+
 =======
 FButton is a custom Button of Android with "Flat UI" concept. FButton's design get inspiration from [designmono](http://designmodo.github.io/Flat-UI/). This library is very small and highly customizable.
 
@@ -11,11 +12,11 @@ Screenshot
 
 Including in your project
 -------------------------
-###Using Maven
-FButton Library is pushed to [Maven Central](http://search.maven.org/#search|ga|1|fbutton), so you just need to add the following dependency to your `build.gradle`.
+###Using JitPack
+FButton Library is pushed to JitPack, so you just need to add the following dependency to your `build.gradle`.
 
     dependencies {
-        compile 'info.hoang8f:fbutton:1.0.5'
+	        compile 'com.github.jd-alexander:android-flat-button:v1.1'
     }
 
 
