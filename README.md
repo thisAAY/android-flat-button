@@ -16,7 +16,7 @@ Including in your project
 FButton Library is pushed to JitPack, so you just need to add the following dependency to your `build.gradle`.
 
     dependencies {
-	        compile 'com.github.jd-alexander:android-flat-button:v1.1'
+	        compile 'com.github.thisAAY:android-flat-button:-SNAPSHOT'
     }
 
 
